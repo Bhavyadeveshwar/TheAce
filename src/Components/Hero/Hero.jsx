@@ -13,7 +13,7 @@ const Hero = () => {
           }}
           className="relative inset-0 bg-black"
         >
-          {/* <OrbitControls maxDistance={20} minDistance={10} /> */}
+          { <OrbitControls maxDistance={20} minDistance={10} /> }
           <directionalLight />
           <pointLight position={[-10, 0, -30]} power={10.0} />
           <PointCircle />
