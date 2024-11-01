@@ -17,7 +17,7 @@ const Commudle = () => {
           <img
             src={Icon}
             alt="commudle"
-            className="w-96 h-auto animate-pulse py-4"
+            className="w-96 h-auto animate-pulse py-3"
           />
           <div
            
